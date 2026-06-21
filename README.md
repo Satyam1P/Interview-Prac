@@ -1,5 +1,14 @@
 # Interview-Prac
 
+Accen prep:-
+https://youtu.be/8BMGWebyl4Y?si=UZGs3iPkUxQzwi9g
+https://youtu.be/dP7bhbbQ7wc?si=rEpuOaDYtKsFVNeb
+https://youtu.be/yvyCI0FyZzo?si=Qq8SDY3Z1taC04dN
+https://youtu.be/WdyiUe7_3cA?si=jFXXbrEQk-Eh5hgx
+https://youtu.be/uQEuo7woEEk?si=SIC8cB3_azVDkS4h
+https://youtu.be/rjHX0jbvGGg?si=Eg2i0TW2MkA8vyXA
+https://youtu.be/24cGoNhchjc?si=bEZLz8sY1kXfxHAs
+------------------------------------------------------------------------------------------------
 1. Tell me about yourself
 2. Walk me through your resume.
 3. Introduce yourself in one minute.
